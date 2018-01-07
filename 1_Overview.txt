@@ -1,0 +1,7 @@
+ 
+                                         Learning Data Structures and Algorithms
+
+a.) Here we are going to learn the concepts of data structures
+b.) Distinguish between data Structues and Data types
+c.) Characteristics of common types of data structures
+d.) Concepts and Andvantages of Abstract Data types

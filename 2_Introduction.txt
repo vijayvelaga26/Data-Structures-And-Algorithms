@@ -1,0 +1,13 @@
+                            
+                                             Introduction
+
+Data structure is the study of various ways of organizing data in a computer.
+This data is manipulated by a systematic and step-by-step process called Algorithm.
+This Manipulation involves various techniques like adding, searching, deleting, rearranging, sorting and Traversing
+These data structures are used by Operating systems, Compilers, Data Communications and Data Management Systems
+Algorithms used with these Data Structures are used in several applications which include Image processing, Digital Signal 
+Processing, Cryptogarphy and data Compressions.
+
+
+
+
