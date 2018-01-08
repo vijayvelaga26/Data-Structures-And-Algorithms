@@ -1,0 +1,62 @@
+ 
+                                    Data Structures
+
+These are programming construct which stores a collection of data items.
+These are not just an extension of Composite data types.
+The data structures encompasses both primitive and composite data types.
+The data structues include some kind of relation between the data items.
+For example string has definite order of organized characters.
+
+Linear Data Structures. 
+
+A structure in which the data elements are organized in sequence belong to Linear type.
+Examples are Arrays, Linked Lists, Stacks and queues.
+Linked List consits of data items called nodes. Each data item constains two fields.
+A stack works on the principle of LIFO.
+A queue works on the principle of FIFO.
+
+Non-Linear Data Structures.
+
+Here the relation among data elements can be hierarchial
+Link may be single or bi-directional
+Common examples are trees and graphs
+A tree consists of a set of data items called nodes.
+Tree contains an information field and a link field,which is address of related element.
+Trees can be binary, A V L, Red and Black, Splay,B-Trees or heap
+Graph is set of data items,called vertices or nodes, connected by links termed as edges or arcs.
+
+Operations on Data Structures
+
+In order to process all the elements in a data structure some operations have to be performed on it
+A basic operation involves creating a data structure and reserving storage space for the elements.
+Another operation is deleting the data structure which removes the data items and releases the allocated space.
+Other common operations include Sorting, Inserting, Searching , Merging and Traversing.
+
+Inserting involves adding a data item in a specified position
+Sorting is arranging of data items in specific order
+Searching is finding an element which matches the given key.
+Merging is combining two sets of data according to given criteria.
+Traversing is accessing each element of data structure atleast once.
+
+The strength of a data structure is described by its nature and the number of operations performed on it.
+
+
+User Defined Data Structures:
+
+Stacks, queues and trees are classical general purpose data structures.
+Some programming languages provide built-in support for some of these structures.
+Along with these we can also create our own data structures which are called user defined data structures.
+
+
+Storage Structures:
+
+It describes how the data elements are stored in the memory
+Elements can be stored in consecutive or disjoint storage locations.
+Each Location is identifies by unique number called memory address.
+To access any element its address is needed
+
+
+
+
+
+

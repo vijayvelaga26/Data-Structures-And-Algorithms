@@ -1,0 +1,70 @@
+ 
+                                             Abstract Data Types
+
+It is the combination of the description of data structure and associated operations
+performed on it. Referred as ADT.
+
+ADT has following characteristics:
+
+1.Provides a description of data types of all the elements in the data structure.
+2.Defines the relationshhip among individual elements
+3.It groups together valid operations that can be performed and different parameters that can be passed.
+4.It specifies error conditions if any in any particular condition.
+
+For example, an ADT stack can be defined by packing together the following operations
+a. push- Inserts an item into the stack
+b. pop- Deletes an item from the stack
+c. peek()- returns the top element without removing the element
+d. size() - returns no. of items currrently stored.
+
+Now, these set of instructions/operations associated with ADT is called Interface.
+Elements of ADT can be manipulated only through interfaces.
+The operations and data items are hidden from the application.
+
+All built-in primitive data types are infact abstract data types.
+It also doesn't  describe whether the data elements are stored in consecutive or disjoint
+locations.
+The implementation details are hidden in the application.
+
+Advantages of ADT:
+
+a. It is reusable, robust and is based on principles of Object Oriented Programming and Software Engineering.
+b. Encaplsulation ensures that the date cannot be corrupted
+c. Based on the SE principles on coupling and cohesion.
+
+Coupling: It determines how strongly two different parts of a program are linked together.
+And the extent to which changes made in one part affect the other part in the program.
+Cohesion: It determines how well-integrated are the components of software.
+For an effecient program the coupling has to be low and the cohesion has to be high.
+
+d. An ADT prmomotes weak coupling and maximum cohesion.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

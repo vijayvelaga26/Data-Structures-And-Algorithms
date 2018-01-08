@@ -1,0 +1,29 @@
+           
+                                      Data Types
+
+Data types defines the different forms of data.
+They are required for effecient coding of programs.
+The two types of data are Primitive and Composite data types.
+
+
+Primitive data type includes Boolean, Integer, Characters .
+Various operations can be done on these primitive data types. Some of them are AND, OR and NOT on 
+Boolean and, arithmetic and comparison operations on integers.
+Primitive Data Types are also called as atomic or Irreducible data types.
+They are always supported by the compiler system.
+These Primitive data types are described in a program by language specific keywords.
+
+
+Composite data types are complex data types defined using primivite data types.
+Some of the examples are Arrays, vectors and strings.
+Array is a collection of homogenous data types.
+Vectors are mathematical representation of arrays.
+String is a combination of characters.
+
+Now these primitive and composite data types are sufficient for solving simple problems.
+But the need for advanced data types arised when the new approach of object oriented design 
+came into existance.
+ 
+
+
+
